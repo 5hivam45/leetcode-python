@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/5hivam45/leetcode-python/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/5hivam45/leetcode-python/tree/master/0005-longest-palindromic-substring) |
 ## Sliding Window
 |  |
 | ------- |
@@ -43,9 +44,18 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/5hivam45/leetcode-python/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/5hivam45/leetcode-python/tree/master/0011-container-with-most-water) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/5hivam45/leetcode-python/tree/master/0011-container-with-most-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/5hivam45/leetcode-python/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/5hivam45/leetcode-python/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
