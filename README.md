@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/5hivam45/leetcode-python/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/5hivam45/leetcode-python/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/5hivam45/leetcode-python/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/5hivam45/leetcode-python/tree/master/0014-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/5hivam45/leetcode-python/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/5hivam45/leetcode-python/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/5hivam45/leetcode-python/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/5hivam45/leetcode-python/tree/master/0014-longest-common-prefix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -64,4 +66,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/5hivam45/leetcode-python/tree/master/0005-longest-palindromic-substring) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/5hivam45/leetcode-python/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
