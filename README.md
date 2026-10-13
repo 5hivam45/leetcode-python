@@ -30,6 +30,7 @@
 | [0009-palindrome-number](https://github.com/5hivam45/leetcode-python/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/5hivam45/leetcode-python/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/5hivam45/leetcode-python/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/5hivam45/leetcode-python/tree/master/0067-add-binary) |
 ## Recursion
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | [0020-valid-parentheses](https://github.com/5hivam45/leetcode-python/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/5hivam45/leetcode-python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/5hivam45/leetcode-python/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/5hivam45/leetcode-python/tree/master/0067-add-binary) |
 ## Sliding Window
 |  |
 | ------- |
@@ -106,4 +108,12 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/5hivam45/leetcode-python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/5hivam45/leetcode-python/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/5hivam45/leetcode-python/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
