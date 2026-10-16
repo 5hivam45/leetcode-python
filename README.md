@@ -33,6 +33,7 @@
 | [0066-plus-one](https://github.com/5hivam45/leetcode-python/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/5hivam45/leetcode-python/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/5hivam45/leetcode-python/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/5hivam45/leetcode-python/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -79,6 +80,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/5hivam45/leetcode-python/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/5hivam45/leetcode-python/tree/master/0070-climbing-stairs) |
 ## Manacher
 |  |
 | ------- |
@@ -123,4 +125,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/5hivam45/leetcode-python/tree/master/0069-sqrtx) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/5hivam45/leetcode-python/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
