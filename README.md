@@ -135,4 +135,20 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/5hivam45/leetcode-python/tree/master/0088-merge-sorted-array) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/5hivam45/leetcode-python/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/5hivam45/leetcode-python/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/5hivam45/leetcode-python/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/5hivam45/leetcode-python/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
